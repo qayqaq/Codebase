@@ -1,0 +1,5 @@
+# ignore result folder
+saved_models/
+
+# ignore config folder
+.vscode
